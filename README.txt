@@ -62,6 +62,7 @@ StudyBuzz/
 Roopakjeet Kaur
 Developed as part of the ELC Computer Vision Activity at Thapar Institute of Engineering and Technology (2024–25)
 
-
+## 📄 License
+This  project is licensed under the MIT License.
 
 
