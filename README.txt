@@ -64,5 +64,3 @@ Developed as part of the ELC Computer Vision Activity at Thapar Institute of Eng
 
 ## 📄 License
 This  project is licensed under the MIT License.
-
-
