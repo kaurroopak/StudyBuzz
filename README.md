@@ -59,11 +59,17 @@ pyttsx3
 ## 📂 Project Structure
 
 StudyBuzz/
+
 ├── StudyBuzzz_main.py            # Main application file
+
 ├── README.txt           	  # Instructions and project summary
+
 ├── requirements.txt     	  # Dependency list
+
 ├── StudyBuzzR_Report.pdf 	  # Summary report 
+
 ├── StudyBuzzR_Presentation.pptx  # Presentation 
+
 └── demo_video.mp4       	  # Demo video (Optional)
 
 ---
